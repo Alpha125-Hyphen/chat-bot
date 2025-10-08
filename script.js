@@ -51,6 +51,7 @@ const generateResponse = (incomingChatLi) => {
 
 const predefinedResponses = {
     "hi": "Hello",
+    "yaswant":"Gnadu",
     "<p><p>": "this is html paragraph tag",
     "<h><h>": "this is html header tag",
     "who is your friend": "you are my friend",
